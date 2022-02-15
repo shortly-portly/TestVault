@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "f8244cae01f647b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b4329245c0483a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Laravel/Using Postgres.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26575fdc7286108d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8802f245ea71497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0756b3ca070b221a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5000c8a4595712b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dave",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f29c9b5f64136bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d0eb02cb90f1b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb064f5d0c2e5abc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Laravel/Using Postgres.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ac171b70075255b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2b4329245c0483a7",
+  "lastOpenFiles": [
+    "Laravel/Using Postgres.md",
+    "MYSQL/Basics.md",
+    "composer.md",
+    "Laracasts/Find a composer package for Post Meta Data.md",
+    "Laracasts/Laravel 8 from Scratch/Using Caching for Expensive Operations.md",
+    "Arrow Functions.md",
+    "PHP/anonymous functions.md",
+    "PHP/Null coalescing operator.md",
+    "PHP/anonymouse functions.md",
+    "anonymouse functions.md"
+  ]
+}

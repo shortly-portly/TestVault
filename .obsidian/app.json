@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "spellcheckDictionary": [
+    "Spatie",
+    "Learnt",
+    "Laravel"
+  ]
+}
