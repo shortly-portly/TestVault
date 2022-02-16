@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wibble.md",
-            "mode": "source"
+            "file": "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dave",
+                "query": "cache",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wibble.md",
+                "file": "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252
   },
   "active": "2b4329245c0483a7",
   "lastOpenFiles": [
+    "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md",
+    "Laracasts/Laravel 8 from Scratch/6. Blade - the absolute basics.md",
+    "Laracasts/Laravel 8 from Scratch/3. Using Caching for Expensive Operations.md",
+    "Laracasts/Laravel 8 from Scratch/4. Find a composer package for Post Meta Data.md",
+    "Laracasts/Laravel 8 from Scratch/5. Collection Sorting and Caching.md",
+    "Laracasts/Untitled 1.md",
     "Wibble.md",
     "Laravel/Using Postgres.md",
     "MYSQL/Basics.md",
-    "composer.md",
-    "Laracasts/Find a composer package for Post Meta Data.md",
-    "Laracasts/Laravel 8 from Scratch/Using Caching for Expensive Operations.md",
-    "Arrow Functions.md",
-    "PHP/anonymous functions.md",
-    "PHP/Null coalescing operator.md",
-    "PHP/anonymouse functions.md"
+    "composer.md"
   ]
 }
