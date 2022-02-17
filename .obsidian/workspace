@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md",
-            "mode": "preview"
+            "file": "Laracasts/Laravel 8 from Scratch/13. Make a Post Model and Migration.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md",
+                "file": "Laracasts/Laravel 8 from Scratch/13. Make a Post Model and Migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "2b4329245c0483a7",
   "lastOpenFiles": [
-    "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md",
-    "Laracasts/Laravel 8 from Scratch/6. Blade - the absolute basics.md",
-    "Laracasts/Laravel 8 from Scratch/3. Using Caching for Expensive Operations.md",
-    "Laracasts/Laravel 8 from Scratch/4. Find a composer package for Post Meta Data.md",
-    "Laracasts/Laravel 8 from Scratch/5. Collection Sorting and Caching.md",
-    "Laracasts/Untitled 1.md",
-    "Wibble.md",
-    "Laravel/Using Postgres.md",
+    "Laracasts/Laravel 8 from Scratch/13. Make a Post Model and Migration.md",
+    "Laracasts/Laravel 8 from Scratch/12. Eloquent and the Active Record Pattern.md",
+    "Laracasts/Laravel 8 from Scratch/11. Migrations - The absolute basics.md",
+    "Laracasts/Laravel 8 from Scratch/10. Environment Files and Database Connections.md",
+    "Git/Basics.md",
+    "composer.md",
+    "PHP/Arrow Functions.md",
     "MYSQL/Basics.md",
-    "composer.md"
+    "Laracasts/Laravel 8 from Scratch/8. A Few Tweaks and Considerations.md",
+    "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md"
   ]
 }
