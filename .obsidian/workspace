@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laracasts/Laravel 8 from Scratch/18. Show All Posts.md",
-            "mode": "source"
+            "file": "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laracasts/Laravel 8 from Scratch/18. Show All Posts.md",
+                "file": "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "2b4329245c0483a7",
   "lastOpenFiles": [
+    "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
+    "Laravel/Advanced Eloquent.md",
+    "Laravel/Using Postgres.md",
+    "Laracasts/Laravel 8 from Scratch/20. Factories.md",
+    "Laracasts/Laravel 8 from Scratch/19. Database Seeding.md",
     "Laracasts/Laravel 8 from Scratch/18. Show All Posts.md",
     "Laracasts/Laravel 8 from Scratch/17. Your First Eloquent Relationship.md",
     "Laracasts/Laravel 8 from Scratch/15. 3 Ways to Mitigate Mass Assignment.md",
     "Laracasts/Laravel 8 from Scratch/16. Route Model Binding.md",
-    "Laracasts/Laravel 8 from Scratch/14. Eloquent Updates and HTML Escaping.md",
-    "Laracasts/Laravel 8 from Scratch/8. A Few Tweaks and Considerations.md",
-    "Laracasts/Laravel 8 from Scratch/7. Blade - layouts two ways.md",
-    "Laracasts/Laravel 8 from Scratch/6. Blade - the absolute basics.md",
-    "Laracasts/Laravel 8 from Scratch/13. Make a Post Model and Migration.md",
-    "Laracasts/Laravel 8 from Scratch/12. Eloquent and the Active Record Pattern.md"
+    "Laracasts/Laravel 8 from Scratch/14. Eloquent Updates and HTML Escaping.md"
   ]
 }
