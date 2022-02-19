@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cache",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -97,11 +97,11 @@
   "active": "2b4329245c0483a7",
   "lastOpenFiles": [
     "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
+    "Laracasts/Laravel 8 from Scratch/18. Show All Posts.md",
     "Laravel/Advanced Eloquent.md",
     "Laravel/Using Postgres.md",
     "Laracasts/Laravel 8 from Scratch/20. Factories.md",
     "Laracasts/Laravel 8 from Scratch/19. Database Seeding.md",
-    "Laracasts/Laravel 8 from Scratch/18. Show All Posts.md",
     "Laracasts/Laravel 8 from Scratch/17. Your First Eloquent Relationship.md",
     "Laracasts/Laravel 8 from Scratch/15. 3 Ways to Mitigate Mass Assignment.md",
     "Laracasts/Laravel 8 from Scratch/16. Route Model Binding.md",
