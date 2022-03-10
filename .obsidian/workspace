@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
+            "file": "Laravel/CRUD Routes.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
+                "file": "Laravel/CRUD Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "2b4329245c0483a7",
   "lastOpenFiles": [
+    "Laravel/CRUD Routes.md",
+    "Dates.md",
+    "CSS/Notes from Laracasts.md",
+    "Laracasts/Laravel 8 from Scratch/19. Database Seeding.md",
+    "MYSQL/Basics.md",
     "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
     "Laracasts/Laravel 8 from Scratch/18. Show All Posts.md",
     "Laravel/Advanced Eloquent.md",
     "Laravel/Using Postgres.md",
-    "Laracasts/Laravel 8 from Scratch/20. Factories.md",
-    "Laracasts/Laravel 8 from Scratch/19. Database Seeding.md",
-    "Laracasts/Laravel 8 from Scratch/17. Your First Eloquent Relationship.md",
-    "Laracasts/Laravel 8 from Scratch/15. 3 Ways to Mitigate Mass Assignment.md",
-    "Laracasts/Laravel 8 from Scratch/16. Route Model Binding.md",
-    "Laracasts/Laravel 8 from Scratch/14. Eloquent Updates and HTML Escaping.md"
+    "Laracasts/Laravel 8 from Scratch/20. Factories.md"
   ]
 }

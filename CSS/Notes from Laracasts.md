@@ -13,6 +13,18 @@ Why Use It?
 * This is a good way of styling every selector except the first one. For example if you have a list of articles. Good for things like padding etc.
 	
 More generally <selector2> + <selector2> means selector2 is a `sibling` of <selector1>. Compare this to <selector1> > <selector2> which means selector2 is a `child` of <selector1>.
+	
+	Smooth Scrolling
+	To smoothly scroll to an anchor tag:
+```html
+	<style>
+	  html {
+    	scroll-behavior: smooth;
+ 	 }
+
+	</style>
+```
+	
 
 
 	
