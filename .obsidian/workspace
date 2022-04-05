@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laravel/CRUD Routes.md",
-            "mode": "preview"
+            "file": "Testing/Test Database.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f29c9b5f64136bc0",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/CRUD Routes.md",
+                "file": "Testing/Test Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +97,15 @@
   },
   "active": "2b4329245c0483a7",
   "lastOpenFiles": [
+    "Testing/Test Database.md",
+    "MYSQL/Basics.md",
+    "Coverage Report.md",
     "Laravel/CRUD Routes.md",
     "Dates.md",
     "CSS/Notes from Laracasts.md",
     "Laracasts/Laravel 8 from Scratch/19. Database Seeding.md",
-    "MYSQL/Basics.md",
     "Laracasts/Laravel 8 from Scratch/21. View all Posts by an Author.md",
     "Laracasts/Laravel 8 from Scratch/18. Show All Posts.md",
-    "Laravel/Advanced Eloquent.md",
-    "Laravel/Using Postgres.md",
-    "Laracasts/Laravel 8 from Scratch/20. Factories.md"
+    "Laravel/Advanced Eloquent.md"
   ]
 }
